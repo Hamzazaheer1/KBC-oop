@@ -1,0 +1,66 @@
+1-Who created C++?
+a) Bjarne Stroustrup
+b) Dennis Ritchie
+c) Ken Thompson
+d) Brian Kernighan
+a
+2-Which of the following is called insertion/put to operator?
+a) <<
+b) >>
+c) >
+d) <
+b
+3-Which of the following is called extraction/get from operator?
+a) <<
+b) >>
+c) >
+d) <
+<<
+4-Which of the following is called address operator?
+a) *
+b) &
+c) _
+d) %
+b
+4-Which of the following is used for comments in C++?
+a) // comment
+b) /* comment */
+c) both // comment or /* comment */
+d) // comment */
+c
+5-Which function is used to read a single character from the console in C++?
+a) cin.get(ch)
+b) getline(ch)
+c) read(ch)
+d) scanf(ch)
+a
+6-What does polymorphism in OOPs mean?
+a) Concept of allowing overiding of functions
+b) Concept of hiding data
+c) Concept of keeping things in differnt modules/files
+d) Concept of wrapping things into a single unit
+a
+7-Which concept allows you to reuse the written code?
+a) Encapsulation
+b) Abstraction
+c) Inheritance
+d) Polymorphism
+c
+8-Which of the following shows multiple inheritances?
+a) A->B->C
+b) A->B; A->C
+c) A,B->C
+d) B->A
+c
+9-Which of the following is correct?
+a) Base class pointer object cannot point to a derived class object
+b) Derived class pointer object cannot point to a base class object
+c) A derived class cannot have pointer objects
+d) A base class cannot have pointer objects
+b
+10- Which of the following cannot be a friend?
+a) Function
+b) Class
+c) Object
+d) Operator function
+c
